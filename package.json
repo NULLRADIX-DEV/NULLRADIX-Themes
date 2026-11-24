@@ -1,0 +1,9 @@
+{
+  "name": "nullradix-themes",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build-themes.mjs"
+  }
+}
